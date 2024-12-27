@@ -17,7 +17,7 @@ Save the script as `pca_analysis.R`.
 2. Make It Executable
 Run the following command to make the script executable:
 
-chmod +x pca_analysis.R
+> chmod +x pca_analysis.R
 
 # Run the Script
 Execute the script from the terminal with the following syntax:
