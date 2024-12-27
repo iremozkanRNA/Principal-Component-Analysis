@@ -28,5 +28,5 @@ Execute the script from the terminal with the following syntax:
 •	`<output_file>`: Path where the output HTML file (PCA plot) will be saved.
 
 # Example 
-./pca_analysis.R path/to/your/featurecounts.txt/ samplePCAplot.html
+> ./pca_analysis.R path/to/your/featurecounts.txt/ samplePCAplot.html
 ![image](https://github.com/user-attachments/assets/0eb378c9-ea38-4817-87cf-36c2f742731d)
