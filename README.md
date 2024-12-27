@@ -6,10 +6,10 @@ Before running the script, ensure you have the following:
 	•	Download R: https://cran.r-project.org/
 	2.	R Libraries: The script uses several R packages. Install them by running the following command in R:
 
-install.packages(c("ggplot2", "plotly", "RColorBrewer", "htmlwidgets"))
-if (!requireNamespace("BiocManager", quietly = TRUE))
+> install.packages(c("ggplot2", "plotly", "RColorBrewer", "htmlwidgets"))
+> if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-BiocManager::install("DESeq2")
+> BiocManager::install("DESeq2")
 
 # Usage
 1. Clone or Copy the Script
