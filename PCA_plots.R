@@ -5,7 +5,7 @@ args <- commandArgs(trailingOnly = TRUE)
 
 # Check if the correct number of arguments is provided
 if (length(args) != 2) {
-  stop("Usage: ./pca_analysis.R <input_directory> <output_file>")
+  stop("Usage: ./pca_plots.R <input_directory> <output_file>")
 }
 
 # Assign arguments to variables
